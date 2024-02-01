@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)]
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">Hi 👋, I'm Vinit</h1>
 <h3 align="center">In the labyrinth of NIT Jamshedpur's CSE kingdom, I, Vinit Kumar, aspire to transcend into a future data sorcerer. As a B.Tech journeyman, my Python spells weave web wonders and orchestrate full-stack harmonies, yet it's the rhythmic dance of data that beckons me. Each code line etches a path toward the realm of a burgeoning data scientist, where insights spring from algorithms' whispered incantations.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
